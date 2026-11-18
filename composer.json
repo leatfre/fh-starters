@@ -1,0 +1,6 @@
+{
+  "name": "fullhosting/starter-php",
+  "description": "A plain PHP app with Composer",
+  "require": { "php": "^8.2" },
+  "autoload": { "psr-4": { "App\\": "src/" } }
+}
